@@ -1,0 +1,6 @@
+bin
+*.iws
+*~1
+*.log
+.metadata
+
